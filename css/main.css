@@ -1837,7 +1837,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #1affbe;
+  background: #e5bdff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2956,4 +2956,7 @@ ul.breadcrumb li+li:last-child {
   .post-body {
     text-align: justify;
   }
+}
+.site-meta {
+  background: $pink;
 }

@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yangna111.github.io/2018/05/19/hello-world/</loc>
+    
+    <lastmod>2018-05-20T05:08:36.529Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yangna111.github.io/categories/index.html</loc>
     
     <lastmod>2018-05-20T03:47:40.890Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://yangna111.github.io/tags/index.html</loc>
     
     <lastmod>2018-05-20T03:47:21.897Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yangna111.github.io/2018/05/19/hello-world/</loc>
-    
-    <lastmod>2017-10-28T00:39:58.000Z</lastmod>
     
   </url>
   
